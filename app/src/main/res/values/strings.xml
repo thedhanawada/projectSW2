@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bluemoon</string>
+
+    <string name="title_activity_landing_page">ActivityLandingPage</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
